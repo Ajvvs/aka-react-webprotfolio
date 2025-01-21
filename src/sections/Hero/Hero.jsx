@@ -56,9 +56,10 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          With a particular interest in making things simple and automating
-          daily tasks. I try to keep up with security and best practices, and am
-          always looking for new things to learn.
+          I am particularly interested in simplifying processes and automating
+          daily tasks. I strive to stay updated with the latest security
+          measures and best practices while continuously seeking opportunities
+          to learn and grow
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
